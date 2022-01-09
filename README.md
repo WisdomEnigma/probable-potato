@@ -2,5 +2,16 @@
         Binary tree in rust
 
     
-## cargo doc --open 
-            allow to read the documenation. I will fixed in upcomming update
+## Documentation 
+          cargo doc --open
+          this command will open documentation on your browser
+          
+## Sources
+        probables.tar & probables.zip available 
+        
+
+## Docker-Hub Image
+         docker pull wizdwarfs/probables:latest
+         
+## Docker run
+        docker run wizdwarfs/probables:latest
