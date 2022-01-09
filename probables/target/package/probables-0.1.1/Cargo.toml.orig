@@ -1,0 +1,21 @@
+[package]
+name = "probables"
+version = "0.1.1"
+edition = "2018"
+authors = ["Ali Hassan <AliMatrixCode@protonmail.com>"]
+description = "tree data structure build on borrow & ownership"
+readme = "README.md"
+license = "MIT or Apache-2.0"
+keywords = ["data-structure", "tools", "tree"]
+categories = ["command-line-utilities", "development-tools::cargo-plugins","algorithms"]
+# license-file = "LICENSE"
+repositry = "https://github.com/WisdomDwarfs/probable-potato"
+documentation = "https://github.com/WisdomEnigma/probable-potato/blob/main/probables/target/doc/probables/index.html"
+publish = true
+
+
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
