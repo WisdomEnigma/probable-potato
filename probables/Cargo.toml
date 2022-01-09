@@ -1,16 +1,16 @@
 [package]
 name = "probables"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
-authors = ["Ali <alideveloper95@gmail.com>"]
-description = "Rust data structure"
+authors = ["Ali Hassan <AliMatrixCode@protonmail.com>"]
+description = "Rust tree data structure"
 readme = "README.md"
-license = "MIT"
-keywords = ["data-structure", "tools"]
+license = "MIT or Apache-2.0"
+keywords = ["data-structure", "tools", "tree"]
 categories = ["command-line-utilities", "development-tools::cargo-plugins","algorithms"]
 license-file = "LICENSE"
 repositry = "https://github.com/WisdomDwarfs/probable-potato"
-documentation = "https://docs.rs/probables"
+documentation = ""
 publish = true
 
 
