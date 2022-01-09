@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["main",""],["new_node",""]],"mod":[["tree","This module are designed to implement tree structure. Currently it provide very basic functionality  "]]});
