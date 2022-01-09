@@ -1,1 +1,0 @@
-initSidebarItems({"enum":[["Branch","Either a branch is left one or right one  Imagine binary tree "],["Results","enums are helpful because, it tells us why program fail ?"]],"struct":[["PrimaryNode","tree props implemented"]]});
