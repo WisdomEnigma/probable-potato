@@ -356,11 +356,13 @@ fn main() {
       let lcount = tree[0].depth(Branch::Left);
       let rcount = tree[0].depth(Branch::Right);
 
+      // bash output
       println!("tree: {:?} Root : {:} Left branch child: {:?} Right branch child: {:?}", tree, count, lcount, rcount);
       
       let inspect = tree[0].inspect(Branch::Parent, String::from("A"), 0);
       println!("Inspect : {:#?}", inspect);
 
+      // inspector run 
       let child_inspect = tree[0].inspect(Branch::Left, String::from("Aaa"), 0);
       let child_inspect_last = tree[1].inspect(Branch::Right, String::from("BaA"), 0);
       
