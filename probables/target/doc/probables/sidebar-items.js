@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["main",""],["new_node",""]],"mod":[["tree","Tree is common data structure that are used to represent data … i.e file or directory Tree module is not generic , currently it will allow string type data. But soon we will translate into generics"]]});
