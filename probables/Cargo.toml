@@ -1,18 +1,28 @@
 [package]
 name = "probables"
-version = "0.1.1"
+version = "0.1.3"
 edition = "2018"
 authors = ["Ali Hassan <AliMatrixCode@protonmail.com>"]
-description = "tree data structure build on borrow & ownership"
+description = "Data structure is a good start to grasp language implementation, no matter how many packages are shared by your peers. Currently tree module is quite small but worthy to look or shared."
 readme = "README.md"
 license = "MIT"
 keywords = ["data-structure", "tools", "tree"]
-categories = ["command-line-utilities", "development-tools::cargo-plugins","algorithms"]
-# license-file = "LICENSE"
+categories = ["command-line-utilities","algorithms"]
+license-file = "MIT"
 repositry = "https://github.com/WisdomDwarfs/probable-potato"
-documentation = "https://github.com/WisdomEnigma/probable-potato/blob/main/probables/target/doc/probables/index.html"
+documentation = "http://bafybeidsxusr2bhzuwhfux26qu57ovmmnhoyw7o5noyqrawm2up5v46zii.ipfs.localhost:8080/src/probables/main.rs.html"
 publish = true
 
+[profile.dev]
+opt-level = 2
+debug = 2
+codegen-units = 256
+
+
+[profile.release]
+opt-level = 3
+debug = 0
+codegen-units = 16
 
 
 

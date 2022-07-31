@@ -1,30 +1,31 @@
-# probable-potato
-
-probables-potato is an awesome bTree module that is written in Rust. Tree is most common data structure that is used by programmers. Many features are added in probable-potato. probable-potato is an interesting name.
-
-
-[Features]
-
-    1. Inspect Tree Values
-    2. Calculate depth of tree
-    3. Ant walk by feature
+# probable-potato [:palm_tree:]
+        
+        Data structure is a good start to grasp language implementation, no matter how many packages are shared by your peers. Currently tree module is quite small but worthy to look or shared.
+         
     
-[Furture]
-    
-    1. Generic 
-    2. Limited Size
-    3. Backstaking
+## Documentation Generation [:open_file_folder:] 
+          
+          cargo doc --open
+          this command will open documentation on your mac.
+        
+        
+# Docs store hereby [:orange_book:]
+        
+http://bafybeidsxusr2bhzuwhfux26qu57ovmmnhoyw7o5noyqrawm2up5v46zii.ipfs.localhost:8080/src/probables/main.rs.html
 
-[Version]
-    
-    Version v0.13
+## Docker-Hub Image [:black_joker:]
+         
+         docker pull wizdwarfs/probables:latest
+         
+## Bit Transactions [:moneybag:]
 
-[Image]
+        bc1q4n65rrpzz04d2ax394e0j6wmh5ayc6lvffyxc
 
-    [pull]
+## Contribution [:]
 
-        $ docker pull wizdwarfs/probables:latest
-    
-    [run]
-    
-        $ docker run wizdwarfs/probables:latest
+        Anyone who's interested in the contribution will forked project. You will add as many features as you like. Best ideas are build when people shared their work with others peers. 
+
+## Contact through [:user:]
+
+          wizdwarfs@gmail.com or follow discord @ 
+          https://discord.com/channels/960060161060401172/960060161060401175  
