@@ -1,1 +1,1 @@
-initSidebarItems({"fn":[["main",""],["new_node",""]],"mod":[["tree","This module are designed to implement tree structure. Currently it provide very basic functionality  "]]});
+initSidebarItems({"fn":[["main",""],["new_node","New Node is a method that takes a single argument string. New Node return Tree Node Object. "]],"mod":[["tree","Tree is a module which contain collection of objects, functions and traits etc. Tree have static varaibles {Height and Depth}. More Learn about them discussed in static section below "]]});

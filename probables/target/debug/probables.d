@@ -1,1 +1,1 @@
-/home/ali/Documents/MindfulProjects/probable-potato/probables/target/debug/probables: /home/ali/Documents/MindfulProjects/probable-potato/probables/src/main.rs
+/home/wiz/Documents/wizProjects/probable-potato/probables/target/debug/probables: /home/wiz/Documents/wizProjects/probable-potato/probables/src/main.rs
