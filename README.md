@@ -21,11 +21,11 @@ http://bafybeidsxusr2bhzuwhfux26qu57ovmmnhoyw7o5noyqrawm2up5v46zii.ipfs.localhos
 
         bc1q4n65rrpzz04d2ax394e0j6wmh5ayc6lvffyxc
 
-## Contribution [:]
+## Contribution [:handshake:]
 
         Anyone who's interested in the contribution will forked project. You will add as many features as you like. Best ideas are build when people shared their work with others peers. 
 
-## Contact through [:user:]
+## Contact through [:family:]
 
           wizdwarfs@gmail.com or follow discord @ 
           https://discord.com/channels/960060161060401172/960060161060401175  
