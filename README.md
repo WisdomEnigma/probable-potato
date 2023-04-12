@@ -19,7 +19,7 @@ http://bafybeidsxusr2bhzuwhfux26qu57ovmmnhoyw7o5noyqrawm2up5v46zii.ipfs.localhos
          
 ## Bit Transactions :moneybag:
 
-        bc1q4n65rrpzz04d2ax394e0j6wmh5ayc6lvffyxc
+        37czsff3CcGvhkkJAwykQgQ2ninWum1DNL
 
 ## Contribution :handshake:
 
